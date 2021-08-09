@@ -186,7 +186,7 @@ p{
     background-color: var(--black-alpha-color);
     opacity: 0;
     pointer-events: none;
-    transition: all 1s;
+    transition: all .5s;
   }
   
   .modal-content {
